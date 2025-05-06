@@ -25,7 +25,7 @@ the next project will be just as interesting, or not, who knows! Feel free to le
 
 ""la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared pero  almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"    
 
-	(´ᵔ⤙ᵔ`)
+(´ᵔ⤙ᵔ`)
 
 
 
