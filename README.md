@@ -28,12 +28,13 @@ the next project will be just as interesting, or not, who knows! Feel free to le
 
 ""la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared por un buen rato pero almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"    
 
+__〆(^_< )
 
 
 
 ![Captura de pantalla 2025-05-06 012034](https://github.com/user-attachments/assets/8edbcd2e-434b-4065-8195-f6dcd57821d5)
 ![Captura de pantalla 2025-05-06 012038](https://github.com/user-attachments/assets/1c6a4b3d-5884-4eb0-a893-5db87cd91d51)
-__〆(^_< )
+
 
 
 
