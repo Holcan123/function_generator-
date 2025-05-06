@@ -37,11 +37,3 @@ __〆(^_< )
 
 
 
-
-
-![Captura de pantalla 2025-05-06 012034](https://github.com/user-attachments/assets/8edbcd2e-434b-4065-8195-f6dcd57821d5)
-![Captura de pantalla 2025-05-06 012038](https://github.com/user-attachments/assets/1c6a4b3d-5884-4eb0-a893-5db87cd91d51)
-
-
-
-
