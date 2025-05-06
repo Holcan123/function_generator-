@@ -2,13 +2,7 @@ Hola querido internauta!
 
 My name is ρ.D.ρ (Rhodro) and I wanted to show you what I've been working on these days!
 
-This project is a polynomial generator using numpy! and matplotlib.
-![Captura de pantalla 2025-05-06 012034](https://github.com/user-attachments/assets/8edbcd2e-434b-4065-8195-f6dcd57821d5)
-![Captura de pantalla 2025-05-06 012038](https://github.com/user-attachments/assets/1c6a4b3d-5884-4eb0-a893-5db87cd91d51)
-
-
-
-When you run the main file, a polynomial of degree N is automatically generated and plotted. 
+This project is a polynomial generator using numpy! and matplotlib.When you run the main file, a polynomial of degree N is automatically generated and plotted. 
 You can interact with it by clicking on a random point on this graph. Six things should appear in the terminal:
 
 
@@ -34,6 +28,11 @@ the next project will be just as interesting, or not, who knows! Feel free to le
 
 ""la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared por un buen rato pero almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"    
 
+
+
+
+![Captura de pantalla 2025-05-06 012034](https://github.com/user-attachments/assets/8edbcd2e-434b-4065-8195-f6dcd57821d5)
+![Captura de pantalla 2025-05-06 012038](https://github.com/user-attachments/assets/1c6a4b3d-5884-4eb0-a893-5db87cd91d51)
 __〆(^_< )
 
 
