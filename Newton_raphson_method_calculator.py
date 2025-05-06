@@ -12,7 +12,7 @@ def calculate_tangent_line(polinomio, x0, y0, X):
     tangent_line = lambda x: m * (x - x0) + y0
     
     # Generate points for the tangent line
-    X_tangent = numpy.linspace(min(X), max(X), 20)
+    X_tangent = numpy.linspace(0, max(X), 20)
     Y_tangent = tangent_line(X_tangent)
     return X_tangent, Y_tangent,m
 

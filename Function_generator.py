@@ -13,7 +13,7 @@ polinomio=numpy.poly1d(constantes)
 
 
 #display plotted line  
-X=numpy.linspace(-10,10,1000) #defining linear spaces of point in x and then generating y values based on the polynommial class of numpy
+X=numpy.linspace(-10,10,100) #defining linear spaces of point in x and then generating y values based on the polynommial class of numpy
 Y=polinomio(X)
 
 
