@@ -3,7 +3,7 @@ import matplotlib.pyplot
 import numpy  
 import random
 import matplotlib
-from Newton_raphson_method_calculator import calculate_tangent_line
+from Newton_raphson_method_calculator import calculate_tangent_line,NRM
 
 
 #lists 
@@ -23,7 +23,11 @@ def clickpoint(click):
     x0 = X[identifier]
     y0 = Y[identifier]
     print(x0,y0)
-    X_tangent, Y_tangent = calculate_tangent_line(polinomio, x0, y0, X) 
+    X_tangent, Y_tangent, m = calculate_tangent_line(polinomio, x0, y0, X)
+    
+    x_intercept = NRM(polinomio, x0, y0)
+    
+
     matplotlib.pyplot.plot(X_tangent, Y_tangent,color="green")
     matplotlib.pyplot.show()
 
@@ -33,6 +37,9 @@ print(constantes)
 print(polinomio)
 print(X)
 print(Y)
+        
+
+
 
 
 
