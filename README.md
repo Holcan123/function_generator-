@@ -26,7 +26,7 @@ This project took me quite a few days and it's something I've really set my mind
 I used this project to combine everything I've learned messing around with Python. There are things that are unnecessary, but I'm doing them so I can use what I've learned, and if everything goes as planned, 
 the next project will be just as interesting, or not, who knows! Feel free to leave a comment giving feedback on things I can improve, and remember:
 
-""la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared por un buen rato pero almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"  
+"la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared por un buen rato pero almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"  
 
 __〆(^_< )
 
