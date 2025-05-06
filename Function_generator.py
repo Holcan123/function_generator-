@@ -24,14 +24,10 @@ def clickpoint(click):
     y0 = Y[identifier]
     print(x0,y0)
     X_tangent, Y_tangent = calculate_tangent_line(polinomio, x0, y0, X) 
-<<<<<<< HEAD
-    matplotlib.pyplot.plot(X_tangent, Y_tangent,color="green") #    # Generar puntos para la línea tangente
-
-
-=======
     matplotlib.pyplot.plot(X_tangent, Y_tangent,color="green")
->>>>>>> ab77726b13ba1859a30b6346703fb91250d922ca
     matplotlib.pyplot.show()
+
+#logs 
 print(LC)
 print(constantes)
 print(polinomio)
