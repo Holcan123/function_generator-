@@ -8,7 +8,7 @@ You can interact with it by clicking on a random point on this graph. Six things
 
 1: The number of constants the polynomial has
 
-2: The value of constants 
+2: The value of coeficients  
 
 3: The polynomial equation
 
