@@ -3,6 +3,7 @@ import matplotlib.pyplot
 import numpy  
 import random
 import matplotlib
+from Newton_raphson_method_calculator import calculate_tangent_line
 
 
 #lists 
@@ -12,22 +13,25 @@ polinomio=numpy.poly1d(constantes)
 
 
 #display plotted line  
-
 X=numpy.linspace(-10,10,100) #defining linear spaces of point in x and then generating y values based on the polynommial class of numpy
 Y=polinomio(X)
 
+
+#making the points on the graph selectable
+def clickpoint(click):
+    identifier = click.ind[0]
+    x0 = X[identifier]
+    y0 = Y[identifier]
+    print(x0,y0)
+    X_tangent, Y_tangent = calculate_tangent_line(polinomio, x0, y0, X) 
+    matplotlib.pyplot.plot(X_tangent, Y_tangent,color="green")
+    matplotlib.pyplot.show()
 print(LC)
 print(constantes)
 print(polinomio)
 print(X)
 print(Y)
 
-#making the points on the graph selectable
-def clickpoint(click):
-    identifier=click.ind[0]
-    x0 =X[identifier]
-    y0 =Y[identifier]
- 
 
 
 #display plotted line 
