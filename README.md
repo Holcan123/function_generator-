@@ -27,7 +27,7 @@ I used this project to combine everything I've learned messing around with Pytho
 the next project will be just as interesting, or not, who knows! Feel free to leave a comment giving feedback on things I can improve, and remember:
 
 ""la vida nos zarandea de maneras que no podemos imaginar con situaciones que probablemente te dejen mirando a una pared por un buen rato pero almenos usemos el tiempo en no lamentarnos por lo que ya paso sino en construirnos para lo que viene!!"    
-
+- 06/05/2025
 __〆(^_< )
 
 
