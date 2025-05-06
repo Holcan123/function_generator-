@@ -17,19 +17,26 @@ def calculate_tangent_line(polinomio, x0, y0, X):
     return X_tangent, Y_tangent,m
 
 
-def NRM(polinomio, x0, y0):
-    # Calculate the derivative of the polynomial,also calculates the slope and if theres no intercept retunr nothuing 
-    polynomial_derivative = numpy.polyder(polinomio)
-    m = numpy.polyval(polynomial_derivative, x0)
-    if m == 0:
-        print("BRAH PICK A GOOD point like is not intercepting at nothing ggs")
-        return None
+def NRM(polinomio, x0):
+    for i in range(20):
+        # Evaluate the function value f
+        fx = numpy.polyval(polinomio, x0)
+        
+        # Calculate the derivative uwu
+        polynomial_derivative = numpy.polyder(polinomio)
+        f_prime_x = numpy.polyval(polynomial_derivative, x0)
+        
+        # check if derivative is 0 because whuen you divide by 0 computers explode 
+        if f_prime_x == 0:
+            print(i + 1)
+            return None
+        
+        #NRF formula (thanks newton and Raphson)
+        x1 = x0 - (fx / f_prime_x)        
+        
+        x0 = x1
     
-    # Calculates the intercept :P
-    x_intercept = x0 - (y0 / m)
-    print(x_intercept)
-    return x_intercept
-
-
-
+    # FINAL RESULT 
+    print(f"final rslt  {x0}:")
+    return x0
 

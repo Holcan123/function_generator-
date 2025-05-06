@@ -13,7 +13,7 @@ polinomio=numpy.poly1d(constantes)
 
 
 #display plotted line  
-X=numpy.linspace(-10,10,100) #defining linear spaces of point in x and then generating y values based on the polynommial class of numpy
+X=numpy.linspace(-10,10,1000) #defining linear spaces of point in x and then generating y values based on the polynommial class of numpy
 Y=polinomio(X)
 
 
@@ -25,7 +25,7 @@ def clickpoint(click):
     print(x0,y0)
     X_tangent, Y_tangent, m = calculate_tangent_line(polinomio, x0, y0, X)
     
-    x_intercept = NRM(polinomio, x0, y0)
+    x_intercept = NRM(polinomio, x0)
     
 
     matplotlib.pyplot.plot(X_tangent, Y_tangent,color="green")
