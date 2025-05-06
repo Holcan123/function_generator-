@@ -5,6 +5,7 @@ My name is ρ.D.ρ (Rhodro) and I wanted to show you what I've been working on t
 This project is a polynomial generator using numpy! and matplotlib. When you run the main file, a polynomial of degree N is automatically generated and plotted. 
 You can interact with it by clicking on a random point on this graph. Six things should appear in the terminal:
 
+
 1: The number of constants the polynomial has
 
 2: The constants that are
@@ -16,6 +17,9 @@ You can interact with it by clicking on a random point on this graph. Six things
 5: The coordinates of the point you are currently touching
 
 6: The approximation of the root using the Newton-Raphson method
+
+![Captura de pantalla 2025-05-06 012034](https://github.com/user-attachments/assets/8edbcd2e-434b-4065-8195-f6dcd57821d5)
+![Captura de pantalla 2025-05-06 012038](https://github.com/user-attachments/assets/1c6a4b3d-5884-4eb0-a893-5db87cd91d51)
 
 
 This project took me quite a few days and it's something I've really set my mind to! (mainly because I don't want to think too much about other things either) but the important thing is that I'd rather be racking my brains over this.
