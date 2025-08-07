@@ -2,7 +2,7 @@ Hola querido internauta!
 
 My name is ρ.D.ρ (Rhodro) and I wanted to show you what I've been working on these days!
 
-This project is a polynomial generator using numpy! and matplotlib.When you run the main file, a polynomial of degree N is automatically generated and plotted. 
+This project is a polynomial generator using numpy! and matplotlib .When you run the main file, a polynomial of degree N is automatically generated and plotted. 
 You can interact with it by clicking on a random point on this graph. Six things should appear in the terminal:
 
 
